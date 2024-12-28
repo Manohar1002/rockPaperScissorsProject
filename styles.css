@@ -576,7 +576,23 @@ body {
   }
 
   #stars {
-    top: 250px;
-    width: 550px;
+    top: 190px;
+    width: 700px;
+    height: 420px;
+  }
+  #cup {
+    width: 280px;
+    height: 282px;
+  }
+  .hurrayText {
+    font-size: 110px;
+  }
+  .finalPage p {
+    font-size: 48px;
+  }
+  #playAgain2 {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
   }
 }

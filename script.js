@@ -108,6 +108,7 @@ playAgain.addEventListener("click", () => {
 
 playAgain2.addEventListener("click", () => {
   finalPage.style.display = "none";
+  removeBorderColor();
   header.style.display = "flex";
   answer.style.display = "grid";
 });
